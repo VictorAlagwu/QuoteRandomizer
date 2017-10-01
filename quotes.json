@@ -1,0 +1,396 @@
+quotes = [
+	{
+		"name": "1",
+		"title": "",
+		"desc": "F-E-A-R has two meanings<p>1. Forget Everything And Run</p><p>2. Face Everything And Rise</p><b align='center'>The Choice is Yours."
+	},
+	{
+		"name": "2",
+		"title": "",
+		"desc": "Things to do Today<p>1. GET UP</p><p>2. SURVIVE</p><p>3. GO BACK TO BED</p>."
+	},
+	{
+		"name": "3",
+		"title": "",
+		"desc": "To make a woman happy, give her these 3 things<p>1.Attention</p><p>2. Affection</p><p>3. Appreciation</p>."
+	},
+	{
+		"name": "4",
+		"title": "",
+		"desc": "<p>It's not about WHO is REAL to your face,</p><p>It's about WHO stays REAL behind your back.</p>"
+	},
+	{
+		"name": "5",
+		"title": "",
+		"desc": "Pray hardest when it is hardest to pray."
+	},
+	{
+		"name": "6",
+		"title": "",
+		"desc": "<p>Never get tired of doing little things for others, sometimes those little things occupy the biggest part of their hearts</p>."
+	},
+	{
+		"name": "7",
+		"title": "",
+		"desc": "Successful people always have two things on their lips.<p>1. Silence</p><p>2. Smile</p>."
+	},
+	{
+		"name": "8",
+		"title": "",
+		"desc": "REMEMBER<p>The TOES You Step On Today May Be Attached To The ASS You Will Have To Kiss Tomorrow</p>."
+	},
+	{
+		"name": "9",
+		"title": "",
+		"desc": "7 Secrets of Success<p>I found the answers in my room </p><p> Roof said: Aim high</p><p>Fan said: Be cool</p><p>Clock said: Every minute is precious</p><p> Mirror said: Reflet before you act </p><p> Window said: See the world</p><p> Calender said: Be up to date</p><p>Door said: Push hard to achieve your goals.</p>"
+	},
+	{
+		"name": "10",
+		"title": "",
+		"desc": "8 Rules To A Better Life<p>1. Never Hate.</p><p> 2. Don't Worry.</p><p> 3. Live Simply. </p><p>4. Expect A Little.</p><p> 5. Give A Lot. </p><p>6. Always Smile.</p><p> 7. Live With Love.</p><p>8. Best Of All,Be With GOD.</p>"
+	},
+	{
+		"name": "11",
+		"title": "",
+		"desc": "<p>Before you speak, Listen.</p><p> Before you write, Think.</p><p> Before you spend, Earn. </p><p> Before you invest, Investigate.</p><p> Before you criticize, Wait. </p><p> Before you pray, Forgive.</p><p> Before you quit, Try.</p><p> Before you retire, Save</p><p> Before you die, Give</p>"
+	},
+	{
+		"name": "12",
+		"title": "",
+		"desc": "<p>The one who falls and gets up is so much stronger than the one who never fell.</p>"
+	},
+	{
+		"name": "13",
+		"title": " ",
+		"desc": "Be Happy, It drives people crazy."
+	}, 
+	{
+		"name": "14",
+		"title": "",
+		"desc": "When you want to success as bad as you want to breath, then you will be successful."
+	},
+	{
+		"name": "15",
+		"title": "",
+		"desc": "When you get to the point, when all you want is to be successful, then you will be successful."
+	},
+	{
+		"name": "16",
+		"title": "",
+		"desc": "If you are going to be successful,you are going to be willing to give up sleep."
+	},
+	{
+		"name": "17",
+		"title": "",
+		"desc": "<p>Pain is temporary, it can last for a minute or even a year,but eventually it will subside, and something else will take it place, but if you quit however it will last forever.</p>."
+	},
+	{
+		"name": "18",
+		"title": "",
+		"desc": "The most important thing at this moment is to be able at any moment to sacrifice what you have for what you will become."
+	},
+	{
+		"name": "19",
+		"title": " ",
+		"desc": "The person who reads too much and uses his brain too little will fall into lazy habits of thinking."
+	},
+	{
+		"name": "20",
+		"title": "",
+		"desc": "Successful people always have two things on their lips.<p>1. Silence</p><p>2. Smile</p>."
+	},
+	{
+		"name": "21",
+		"title": "",
+		"desc": "Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction."
+	},
+	{
+		"name": "22",
+		"title": "",
+		"desc": "Science without religion is lame. Religion without science is blind."
+	},
+	{
+		"name": "23",
+		"title": "",
+		"desc": "I never think of the future. It comes soon enough."
+	},
+	{
+		"name": "24",
+		"title": "",
+		"desc": "The fear of death is the most unjustified of all fears, for there's no risk of accident for someone who's dead."
+	},
+	{
+		"name": "25",
+		"title": "",
+		"desc": "Insanity is doing the same thing, over and over again, but expecting different results."
+	},
+	{
+		"name": "26",
+		"title": "",
+		"desc": "If you can't explain it to a six year old, you don't understand it yourself."
+	},
+	{
+		"name": "27",
+		"title": "",
+		"desc": "Logic will get you from A to Z; imagination will get you everywhere."
+	},
+	{
+		"name": "28",
+		"title": "",
+		"desc": "Try not to become just a man of success, but rather try to become a man of value."
+	},
+	{
+		"name": "29",
+		"title": "",
+		"desc": "It´s not that I´m so smart; it´s just that I stay with problems longer- Albert Einstein"
+	},
+	{
+		"name": "30",
+		"title": "",
+		"desc": "The person who never made a mistake never tried anything new."
+	},
+	{
+		"name": "31",
+		"title": "",
+		"desc": "Work is the only thing that gives substance to life."
+	},
+	{
+		"name": "32",
+		"title": "",
+		"desc": "My concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right."
+	},
+	{
+		"name": "33",
+		"title": "",
+		"desc": "You have to do your own growing no matter how tall your grandfather was."
+	},
+	{
+		"name": "34",
+		"title": "",
+		"desc": "Always bear in mind that your own resolution to succeed is more important than any other thing."
+	},
+	{
+		"name": "35",
+		"title": "",
+		"desc": "The best way to predict your future is to create it."
+	},
+	{
+		"name": "36",
+		"title": "",
+		"desc": "It is better to remain silent and be thought a fool, than to open your mouth and remove all doubts."
+	},
+	{
+		"name": "37",
+		"title": "",
+		"desc": "Dream, Dream, Dream, Dreams transform into thoughts And thoughts result in action."
+	},
+	{
+		"name": "38",
+		"title": "",
+		"desc": "For great men, religion is a way of making friends; small people make religion a fighting tool."
+	},
+	{
+		"name": "39",
+		"title": "",
+		"desc": "As a child of God, I am greater than anything that can happen to me."
+	},
+	{
+		"name": "40",
+		"title": "",
+		"desc": "Let us sacrifice our today so that our children can have a better tomorrow."
+	},
+	{
+		"name": "41",
+		"title": "",
+		"desc": "The man who has no sense of history, is like a man who has no ears or eyes."
+	},
+	{
+		"name": "42",
+		"title": "",
+		"desc": "Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower.― Alan Kay"
+	},
+	{
+		"name": "43",
+		"title": "",
+		"desc": "It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection."
+	},
+	{
+		"name": "44",
+		"title": "",
+		"desc": "The mind is restless and difficult to restrain, but it is subdued by practice."
+	},
+	{
+		"name": "45",
+		"title": "",
+		"desc": "Three things cannot be long hidden: the sun, the moon, and the truth."
+	},
+	{
+		"name": "46",
+		"title": "",
+		"desc": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+	},
+	{
+		"name": "47",
+		"title": "",
+		"desc": "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?"
+	},
+		{
+		"name": "48",
+		"title": "",
+		"desc": "A jug fills drop by drop."
+	},
+		{
+		"name": "49",
+		"title": "",
+		"desc": "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."
+	},
+		{
+		"name": "50",
+		"title": "",
+		"desc": "The unhappiest & unsuccessful people in this world, are those who care the most about what other people think. ― C. JoyBell"
+	},
+		{
+		"name": "51",
+		"title": "",
+		"desc": "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy. ― Martin Luther King, Jr."
+	},
+		{
+		"name": "52",
+		"title": "",
+		"desc": "Take time to deliberate, but when the time for action has arrived stop thinking and go in. ― Napoleon Bonaparte"
+	},
+		{
+		"name": "53",
+		"title": "",
+		"desc": "I have failed over and over again –that is why I succeed. ― Michael Jordan"
+	},
+		{
+		"name": "54",
+		"title": "",
+		"desc": "The only way of finding the limits of the possible is by going beyond them into the impossible. ― Arthur C. Clarke"
+	},
+		{
+		"name": "55",
+		"title": "",
+		"desc": "To be a champion, you have to believe in yourself when nobody else will. ― Sugar Ray Robinson"
+	},
+		{
+		"name": "56",
+		"title": "",
+		"desc": "Learn from yesterday, live for today, hope for tomorrow. The important thing is to not stop questioning. ― Albert Einstein"
+	},
+		{
+		"name": "57",
+		"title": "",
+		"desc": "Don't limit your challenges; challenge your limits. ― Anon."
+	},
+		{
+		"name": "58",
+		"title": "",
+		"desc": "People become successful the minute they decide to. ― Harvey Mackay"
+	},	{
+		"name": "59",
+		"title": "",
+		"desc": "Your ideas are like diamonds.. .without the refining process, they are just a dirty rock, but by cutting away the impurities, they become priceless. ― Paul Kearly"
+	},
+		{
+		"name": "60",
+		"title": "",
+		"desc": "I have tried 99 times and have failed, but on the 100th time came success. ― Albert Einstein"
+	},
+		{
+		"name": "61",
+		"title": "",
+		"desc": "The size of your success depends on the depth of your desire. ― Anon."
+	},
+		{
+		"name": "62",
+		"title": "",
+		"desc": "He who dares, wins. ― Winston Churchill"
+	},
+		{
+		"name": "63",
+		"title": "",
+		"desc": "The achievement of one goal should be the starting point of another. ― Alexander Graham Bell"
+	},
+		{
+		"name": "64",
+		"title": "",
+		"desc": "Never give up! Failure and rejection are only the first step to succeeding. ― Jimmy Valvano"
+	},
+		{
+		"name": "65",
+		"title": "",
+		"desc": "Don't wish for it...Work for it! ― Anon."
+	},
+		{
+		"name": "66",
+		"title": "",
+		"desc": "He who conquers others is strong. He who conquers himself is mighty. ― Lao Tzu"
+	},
+		{
+		"name": "67",
+		"title": "",
+		"desc": "Think BIG! You are going to be thinking anyway, so think BIG!― Donald Trump"
+	},
+		{
+		"name": "68",
+		"title": "",
+		"desc": "You miss 100% of the shots you don't take. ― Wayne Gretzky"
+	},
+		{
+		"name": "69",
+		"title": "",
+		"desc": "The day I stop giving is the day I stop receiving. The day I stop learning is the day I stop growing."
+	},
+		{
+		"name": "70",
+		"title": "",
+		"desc": "Be courageous! Have faith! Go forward. ― Thomas A. Edison"
+	},
+		{
+		"name": "71",
+		"title": "",
+		"desc": "Do not settle for less than an extraordinary life. ― Anon."
+	},
+		{
+		"name": "72",
+		"title": "",
+		"desc": "I am a great believer in luck, and I find that the harder I work the more luck I have. ― Thomas Jefferson"
+	},
+		{
+		"name": "73",
+		"title": "",
+		"desc": "People become really quite remarkable when they start thinking that they can do things. When they believe in themselves, they have the first secret of success. ― Norman Vincent Peale"
+	},
+	{
+		"name": "74",
+		"title": "",
+		"desc": "The greater the obstacle, the more glory in achieving it. ― Moliere"
+	},
+	{
+		"name": "75",
+		"title": "",
+		"desc": "People are not lazy; they just have impotent goals, that is, goals that do not inspirethem. ― Anthony Robbins"
+	},
+		{
+		"name": "76",
+		"title": "",
+		"desc": "The greater the obstacle, the more glory in achieving it. ― Moliere"
+	},
+		{
+		"name": "77",
+		"title": "",
+		"desc": "Every man is an impossibility until he is born. ― Ralph Waldo Emerson"
+	},
+			{
+		"name": "78",
+		"title": "",
+		"desc": "The only way to conquer fear is to face it straight on"
+	},
+			{
+		"name": "79",
+		"title": "",
+		"desc": "Nothing great was ever achieved without enthusiasm"
+	},
+];

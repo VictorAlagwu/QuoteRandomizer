@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<title>Random Motivation</title>
+	<!-- <link rel="stylesheet" href="style.css" type="text/css"> -->
+	<link rel="icon" type="image/png" href="icon.png">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+<style >
+body{
+	background-image: url('bg.jpg');
+	color: rgb(68, 69, 70);
+}
+.text-header{
+    background: rgba(0, 0, 0, 0.35);
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: lighter; 
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+	.btn-primary{
+		background-color: rgba(0, 0, 0, 0.54);
+    	border-color: rgba(0, 0, 0, 0);
+
+	}
+	.btn-primary:hover{
+		background-color: rgba(119, 114, 114, 0.59);
+    	border-color: rgba(0, 0, 0, 0);
+    	text-decoration: none;
+
+	}
+	.btn-primary:focus{
+		background-color: rgba(119, 114, 114, 0.59);
+    	border-color: rgba(0, 0, 0, 0);
+    	text-decoration: none;
+	}
+	footer{
+    position: absolute;
+    bottom: -1px;
+    width: 100%;
+    color:black;
+    }
+</style>
+<body>
+	<nav class="navbar navbar-toggleable-md navbar-light bd-faded">
+	    <button type="button" class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="navbar-toggler-icon"></span>   
+	    </button>
+	    <a class="navbar-brand" href="index.html">Randomizer</a>
+	        <div class="collapse navbar-collapse" id="navbarNav">
+	             <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+	                <li class="nav-item active"><a class="nav-link" href="http://twitter.com/i_jv_learner">Twitter</a></li>
+	                <li class="nav-item "><a class="nav-link" href="http://github.com/victoralagwu">GitHub</a></li>
+	                <li class="nav-item "><a class="nav-link" href="http://facebook.com/victor.alagwu">Facebook</a></li>	
+	    		</ul>
+			</div>		
+	</nav><!--/nav-->
+
+	<div class="jumbotron-fluid text-center">
+			<h3 class="text-muted text-center">Quote Randomizer</h3>
+            <p class="lead text-center">This is a random display of different quotes, to begin click the the button below</p>
+	</div>
+	<br>
+	<p class="text-center"><button type="button" class="btn btn-primary" onclick="nextQuotes()">Click Me</button></p>
+	<br>
+
+	<div class="jumbotron-fluid text-center">
+		   <input type="hidden" name="" id="id">
+		   <div class="text-header">
+		   	<h3 class="text-muted text-center" id="title"></h3>
+            <i><p class="lead text-center" id="desc">Quotes will be display here</p></i>
+		   </div>
+			
+	</div>
+	<footer id="footer" class="footer text-center"><span class="">&copy; Copyright 2017 <i>It's Victor Again</i></span></footer>
+<script src="js/jquery.min.js"></script>
+<script src="js/umd/popper.min.js"></script>
+<script src="quotes.json"></script>
+<script src="js/motiva.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
