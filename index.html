@@ -49,7 +49,7 @@ body{
     color:black;
     }
 </style>
-<body>
+<body  onload="showQuotes()">
 	<nav class="navbar navbar-toggleable-md navbar-light bd-faded">
 	    <button type="button" class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="navbar-toggler-icon"></span>   
@@ -66,21 +66,30 @@ body{
 
 	<div class="jumbotron-fluid text-center">
 			<h3 class="text-muted text-center">Quote Randomizer</h3>
-            <p class="lead text-center">This is a random display of different quotes, to begin click the the button below</p>
+            <p class="lead text-center">This is a random display of different quotes, by Victor Alagwu</p>
+            <span>Today Date and Current Time: </span><span class="lead text-center"></span>
+            <span id="date"></span>/<span id="month"></span>/<span id="year"></span>::
+            <span id="hour"></span>:<span id="min"></span>:<span id="sec"></span>
 	</div>
 	<br>
-	<p class="text-center"><button type="button" class="btn btn-primary" onclick="nextQuotes()">Click Me</button></p>
+	<!-- <p class="text-center"><button type="button" class="btn btn-primary" >Click Me</button></p>
+	<b></b> -->
 	<br>
 
 	<div class="jumbotron-fluid text-center">
 		   <input type="hidden" name="" id="id">
 		   <div class="text-header">
 		   	<h3 class="text-muted text-center" id="title"></h3>
-            <i><p class="lead text-center" id="desc">Quotes will be display here</p></i>
+            <i><span style="font-size: 40px;">"</span><p class="lead text-center" id="desc">Quotes will be display here</p></i>
 		   </div>
 			
 	</div>
-	<footer id="footer" class="footer text-center"><span class="">&copy; Copyright 2017 <i>It's Victor Again</i></span></footer>
+	<footer id="footer" class="footer text-center"><span class="">&copy; Copyright <span id='fullyear'></span>
+		<script>
+			var thisYear = new Date();	
+	 			document.getElementById('fullyear').innerHTML = thisYear.getFullYear();
+		</script> 
+	<i>It's Victor Again</i></span></footer>
 <script src="js/jquery.min.js"></script>
 <script src="js/umd/popper.min.js"></script>
 <script src="quotes.json"></script>
